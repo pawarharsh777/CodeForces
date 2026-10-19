@@ -23,6 +23,8 @@ s = input().lower()
 
 target = "hello"
 j = 0
+taregt = "hii"
+j= 26
 
 for i in s:
     if j < len(target) and i == target[j]:
