@@ -128,6 +128,7 @@ for _ in range(t):
 
         if not changed:
             break
+            # done changes
 
     op.append(all(created))
 
